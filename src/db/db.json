@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "username": "Churrete",
+      "password": "ati123"
+
+    }
+  ],
+
+  "gifs": [
+    {
+      "id": 1,
+      "link": "https://media.giphy.com/media/3NtY188QaxDdC/giphy.gif"
+    },
+    {
+      "id": 2,
+      "link": "https://media.giphy.com/media/l4KibWpBGWchSqCRy/giphy.gif"
+    },
+    {
+      "id": 3,
+      "link": "https://media.giphy.com/media/ls0ihNaoGSpFsJ22rk/giphy.gif"
+    },
+    {
+      "id": 4,
+      "link": "https://media.giphy.com/media/ls0ihNaoGSpFsJ22rk/giphy.gif"
+    }
+  ]
+}
