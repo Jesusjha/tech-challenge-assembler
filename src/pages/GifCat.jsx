@@ -1,9 +1,7 @@
 import React, { useContext } from "react";
-import { Link, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import { ImgContext } from "../context/ImgContext";
 import { FlexImg, Image } from "../ui/index";
-
-import { Scrollbars } from 'react-custom-scrollbars-2';
 
 const GifCat = () => {
 const { showGif } = useContext(ImgContext)

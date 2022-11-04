@@ -1,5 +1,5 @@
 import React from "react";
-import { Link, Outlet, useNavigate } from "react-router-dom";
+import { Outlet, useNavigate } from "react-router-dom";
 import { FlexArticle, GridMain, Logo, MenuBtn, Nav } from "../ui";
 import logoNav from "../assets/images/logo.png";
 import { Searchbar, Username } from "./index";
